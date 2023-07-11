@@ -1,7 +1,7 @@
 # Website use React, Boostrap5 and Deploy on Neslify.com
 
-[Demo website on Netlify](https://demo-corporate-react-boostrap5.netlify.app/)
-[Demo website on Vercel](https://demo-corporate-react-boostrap.vercel.app)
+- [Demo website on Netlify](https://demo-corporate-react-boostrap5.netlify.app/)
+- [Demo website on Vercel](https://demo-corporate-react-boostrap.vercel.app)
 
 # Build width
 
